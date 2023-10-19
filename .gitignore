@@ -1,0 +1,10 @@
+
+.cproject
+.mxproject
+.project
+.settings/com.st.stm32cube.ide.mcu.sfrview.prefs
+.settings/language.settings.xml
+.settings/org.eclipse.core.resources.prefs
+.settings/stm32cubeide.project.prefs
+Debug/*
+Drivers/*
